@@ -1,5 +1,5 @@
 # HMILungDataset
-This dataset contains a hyperspectral microscopic imaging (HMI) dataset for lung tumor (LUSC). The dataset contains 67 images from 10 pathological sections. 
+This dataset contains a hyperspectral microscopic imaging (HMI) dataset for lung tumor (LUSC). The dataset contains 65 image scenes from 10 pathological sections. 
 
 This repo contain codes used during processing the dataset. The original and processed dataset can be found in Baidu Cloud Disk as follows:
 
