@@ -1,5 +1,6 @@
 # HMILungDataset
 This dataset contains a hyperspectral microscopic imaging (HMI) dataset for lung tumors (LUSC). The dataset contains multiple image scenes extracted from pathology slides of 10 patients diagnosed with LUSC. 
+
 **This repository hosts the example data used in the paper. For access to more data, please contact the corresponding author.**
 
 # Folder Structure
@@ -8,6 +9,8 @@ In the example data (LUSC-3-8.zip):
 RawData - Contains the original HMI images taken from the HMI system and tumor labels provided by pathologists.
 
 ProcessedData - Contains HMI datacube (with SNV and SG) and labels with 4 types(background, non-cell, tumor cell, and non-tumor cell).
+
+Due to GitHub file-size limits, the sample data are provided as a multi-part archive. Please download all files whose names start with 'LUSC-3-8', then extract the first part to automatically join and unpack.
 
 
 In this Repo:
